@@ -1,13 +1,19 @@
 # php_file
 Overview : 
 Developed a web application using PHP that includes a login system, file upload , report generation, and email functionality.
-Features : 
+
+Features :
+
 User Authentication - Secure login and registration system.
+
 File Upload - User can upload and manage files securely.
+
 Report Generation - Generate reports from stored data.
+
 Email Notification - send emails for user actions.
 
 Installation and Setup Instruction :
+
 Before running the application , we have to ,
 PHP 7.4 or higher
 MySQL Database
@@ -18,11 +24,14 @@ Composer
 Open **phpMyAdmin** 
 Crete a new database, 
 Import the database, 
+
 2 : Configure Environment Variables
 Rename .env,
 Open .env and update the database,
+
 3 : Install Dependencies 
 Composer Install
+
 4 : Start Server 
 Using XAMPP, start Apache and MySQL
 User Instruction :
