@@ -5,11 +5,8 @@ Developed a web application using PHP that includes a login system, file upload 
 Features :
 
 User Authentication - Secure login and registration system.
-
 File Upload - User can upload and manage files securely.
-
 Report Generation - Generate reports from stored data.
-
 Email Notification - send emails for user actions.
 
 Installation and Setup Instruction :
