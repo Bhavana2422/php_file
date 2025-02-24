@@ -37,5 +37,5 @@ Using XAMPP, start Apache and MySQL
 User Instruction :
 Registration /Login,
 Upload Files,
-Generate Repo,rts
+Generate Reports,
 Receive Email Notification.
